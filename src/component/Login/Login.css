@@ -1,0 +1,15 @@
+.login-wrapper {
+    background-color: rgb(0, 51, 153);
+}
+
+.logo-login {
+    width: 100%;
+  max-width: 220px;
+}
+
+.login-form {
+  max-width: 300px;
+}
+.login-form-button {
+  width: 100%;
+}
